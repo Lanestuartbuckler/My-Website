@@ -1,0 +1,289 @@
+{
+  "header": {
+    "name": "LANE BUCKLER",
+    "position": "Financial Analyst and Undergrad Computer Science Student",
+    "img": {
+      "src": "/myself.jpg",
+      "alt": "Lane Buckler"
+    },
+    "location": "California, Maryland",
+    "contacts": [
+      {
+        "type": "Linkedin",
+        "link": "www.linkedin.com/in/lane-buckler-aa1056158",
+        "linkName": "Lane S Buckler"
+      },
+      {
+        "type": "Email",
+        "link": "mailto: lanebucklerstu@gmail.com",
+        "linkName": "Lane S Buckler"
+      },
+      {
+        "type": "Phone",
+        "linkName": "240.298.8028"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "name": "Account Surfer",
+      "locationIcon": "windows-store.svg",
+      "description": "Quickly switch between accounts and browsers",
+      "builtWith": ["electron", "react", "redux", "reduxsaga", "fabric"],
+      "link": "https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7"
+    },
+    {
+      "name": "Trello Bookmark",
+      "locationIcon": "chrome-webstore.svg",
+      "description": "Store your bookmarks as Trello Cards",
+      "builtWith": ["apollo", "react", "antd"],
+      "link": "https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca",
+      "sourceCode": "https://github.com/dospolov/trello-bookmark"
+    },
+    {
+      "name": "Blog",
+      "locationIcon": "chrome.svg",
+      "description": "Read about productivity and development",
+      "builtWith": ["gatsby", "react", "netlify"],
+      "link": "https://dospolov.com",
+      "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
+    }
+  ],
+  "pitchLine": "My passions are software engineering, networking, machine learning, & cloud technology.",
+  "topTech": [
+    "react",
+    "graphql",
+    "apollo",
+    "redux",
+    "reduxsaga",
+    "electron",
+    "gatsby",
+    "antd"
+  ],
+  "tech": {
+    "react": {
+      "name": "React",
+      "logo": "react.svg",
+      "website": "https://github.com/facebook/react",
+      "displayInTopList": true
+    },
+    "graphql": {
+      "name": "GraphQL",
+      "logo": "graphql.svg",
+      "website": "https://graphql.org/",
+      "displayInTopList": true
+    },
+    "apollo": {
+      "name": "Apollo",
+      "logo": "apollo.svg",
+      "website": "https://www.apollographql.com/",
+      "displayInTopList": true
+    },
+    "redux": {
+      "name": "Redux",
+      "logo": "redux.svg",
+      "website": "https://redux.js.org/",
+      "displayInTopList": true
+    },
+    "reduxsaga": {
+      "name": "Redux-Saga",
+      "logo": "redux-saga.svg",
+      "website": "https://redux-saga.js.org/",
+      "displayInTopList": true
+    },
+    "electron": {
+      "name": "Electron",
+      "logo": "electron.svg",
+      "website": "https://www.electronjs.org/",
+      "displayInTopList": true
+    },
+    "gatsby": {
+      "name": "Gatsby",
+      "logo": "gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "displayInTopList": true
+    },
+    "antd": {
+      "name": "Ant Design",
+      "logo": "ant-design.svg",
+      "website": "https://ant.design/",
+      "displayInTopList": true
+    },
+    "fabric": {
+      "name": "Fabric UI",
+      "logo": "fabric.svg",
+      "website": "https://developer.microsoft.com/en-us/fabric",
+      "displayInTopList": false
+    },
+    "netlify": {
+      "name": "Netlify",
+      "logo": "netlify.svg",
+      "website": "https://www.netlify.com/",
+      "displayInTopList": false
+    }
+  },
+  "skills": {
+    "soft": {
+      "featured": [
+        "Focus on business needs",
+        "Vigilant about details",
+        "Independent and Team-centric",
+        "Decision making",
+        "Effective and meticulous communicator",
+        "Highly analytical"
+      ],
+      "other": [
+        "Stimulates curiosity",
+        "Risk Management",
+        "Divergent and Heuristic Thinking",
+        "Outside-the-box Problem Solving",
+        "Task and Conflict Planning",
+        "Business Process Improvement",
+        "Budgeting",
+        "Requirements Analysis",
+        "Policy Knowledge"
+      ]
+    },
+    "hard": {
+      "featured": ["MS Office Suite", "Data Analysis", "Rudimentary of Python and Java"],
+      "other": [
+        "Enterprise-support Database and Software",
+        "GIT",
+        "NPM",
+        "Data Warehousing and Entry",
+        "Google Workspace",
+        "Financial Auditing",
+        "Account Reconciliation",
+        "Adobe",
+        "MS Visual Studio Code",
+        "MS Power Pivot",
+        "HTML",
+        "CSS",
+        "ReactJS",
+        "Familiar with Qlik, Spark, Jupyter, Power BI, and SQL"
+      ]
+    }
+  },
+  "experience": [
+    {
+      "company": {
+        "name": "Bowhead",
+        "logoHeight": 400,
+        "logo": "../static/bowhead.jpg",
+        "period": "October - now"
+      },
+      "projects": [
+        {
+          "name": "Bowhead Whale",
+          "logoHeight": 40,
+          "logo": "../static/bowheaduic.webp",
+          "role": "Bowhead",
+          "description": "Junior Project Analyst",
+          "stack": {
+            "me": [],
+            "all": []
+          },
+          "achievements": [
+            "Monitored task budget and funding balances as well as analyzing and interpreting their weekly burn rates for the Mobile Deployable contract under UCS (United Command Suite)",
+            "Assisted in managing, interpreting, and auditing projected and actual values of labor, services, and material in FY22/FY23 CBRNE Spend Plans and their respective planned schedules (in relevance to the UCS Waterfall Chart)",
+            "Compiled and organized quarterly and monthly deliverables detailing financial progress of CBRNE, J39, MSCOE, and MSNE to be delivered to sponsors",
+            "Corresponded with Government Project Leads (GPLs) on a weekly basis about current tasking and budget for different efforts of the UCS contracts and anything concerning procurements/acquisitions and engineering changes",
+            "Inputted Funding Identification and Funding Realignments into ATLAS as they corresponded with entries in the CBRNE SPs, TIDs Revisions, and the need to move funds from one project code to another"
+          ]
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "NAVAIR HQ",
+        "logoHeight": 30,
+        "logo": "../static/navair.jpg",
+        "period": "March 2021 - June 2022"
+      },
+      "projects": [
+        {
+          "name": "NAVAIR",
+          "logoHeight": 35,
+          "logo": "../static/navair.png",
+          "role": "NAVAIR HQ",
+          "description": "Financial Management Analyst",
+          "stack": {
+            "me": [],
+            "all": []
+          },
+          "achievements": [
+            "Edited and balanced the General Ledger and Document Tracker dealing with commitments, obligations, and expenditures in accordance to MISIL, InfoWarehouse, Navy ERP, and CRT for each respective partner nation",
+            "Created Purchase Orders and modified funding documents with pullback or additional funding amendments",
+            "Constructed and updated SPID numbers in CSPT, and reviewed and compared exported spreadsheets of SPID Entries and their Direct, Labor, and Travel costs",
+            "Generated weekly ZRQIS0002/0003 and ZRCCC007 reports of Undistributed Labor Postings and budget expenditures for each project, billing structure, and funding document and calculated how many funds to increase their funding documents by to balance the postings"
+          ]
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Eagle Systems, Inc.",
+        "logoHeight": 40,
+        "logo": "../static/eagle.webp",
+        "period": "February 2020 - February 2021"
+      },
+      "projects": [
+        {
+          "name": "",
+          "logoHeight": 40,
+          "logo": ".png",
+          "role": "Eagle Systems, Inc.",
+          "description": "Accounting Clerk",
+          "stack": {
+            "me": []
+          },
+          "achievements": [
+            "Reviewed, investigated, and corrected errors in vouchers, invoices, and financial entries for accuracy and entered data into automated accounts payable approval system (Costpoint)",
+            "Processed weekly employee payroll and payments received from customers while ensuring accuracy and timeliness",
+            "Reconciled bank statement versus general ledger precisely and analyzed with aged A/P & A/R reports",
+            "Compared material and expense budgets in project ledger with actual performance in the material tracker on a current and job-to-date basis"
+          ]
+        }
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "place": "Bionic University",
+      "logo": "bionic.png",
+      "logoHeight": 50,
+      "period": "2015",
+      "description": "I conducted a series of lectures for BIONIC University. Main topics: HTML / CSS / jQuery / Handlebars / Ajax / Production experience / Best practices"
+    }
+  ],
+  "education": [
+    {
+      "place": "University Maryland Global Campus",
+      "period": "2023 - 2024",
+      "degree": "Candidate for Bachelor of Science Degree in Computer Science"
+    },
+    {
+      "place": "University Maryland Global Campus",
+      "period": "2019 - 2020",
+      "degree": "Bachelor of Science Degree in Accounting"
+    }
+  ],
+  "recommendations": [
+    {
+      "name": "",
+      "jobTitle": "",
+      "text": "Hi, my name is Lane Stuart Buckler! I am currently an undergrad student at UMGC studying Computer Science. I like writing poetry, watching horror movies, learning philosophy, playing video games, and collecting vinyl records. I am also a competitive axe thrower in a league!"
+    },
+    {
+      "name": "",
+      "jobTitle": "",
+      "text": "Alongside having a business and finance, accounting, and databasing background, I am familiar as well with some aspects of software engineering, including ReactJS, HTML, CSS, Git, and NPM, and some aspects of data science, such as SQL, Qlik, and Power BI. I have dabbled a bit in Python."
+    },
+    {
+      "name": "",
+      "jobTitle": "",
+      "text": "I am presently looking for an entry-level or internship position somewhere in a field of engineering or programming. 😁"
+    }
+  ],
+  "footer": "Loosely designed in Gatsby and coded in Visual Studio Code. Built with ReactJS, deployed with Netlify, 2023."
+}
